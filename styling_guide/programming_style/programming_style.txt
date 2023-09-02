@@ -1,0 +1,28 @@
+Black onion project coding style guide :
+
+    1. All programmer's who use python , Should follow the PEP8 style guide.
+
+    2. Programmer's who use other language's , Should follow their language style guide , But must still keep up with the blank line rule's of PEP8.
+
+    3. When is it okay to break the rules? : If you ever felt like when attending to the rule's 
+        - The coding still isn't clean enugh And Clean code makes refactoring difficult or when you have to decide between clean code and Better accessibility ,
+        - You have the right to ignore the guide and use your personal style . You have to do the best for balancing the accessibility And clean code , 
+        - If not possible , Choose the accessbility over clean code.
+
+    4. All code's Must be written In Microsoft Code editor's.
+
+
+قوانین کدنویسی پروژه بلک انین :
+
+    1. تمامی برنامه نویس های پایتون ، باید کدینگ استایل پی ای پی ۸ را به خوبی بلد باشند و در آن تجربه کسب کنند
+
+    2. برنامه نویس هایی که از زبان های برنامه نویسی دیگر استفاده میکنند باید به خوبی با قوانین استایل بندی آن زبان آشنا باشند ، در عین حال هنوز هم باید در ضمینه لاین خالی ، قوانین پی ای پی ۸ را دنبال کنند.
+
+    3. زمانی که بین تغییرپذیری پروژه در آینده و کد تمیز مجبور به انتخاب بودید ، تغییر پذیری بهتر در آینده را دنبال کنید.
+
+    4. در شرایط گزینه ۳ ، قبل از نادیده گرفتن قواعد کد تمیز ، به دنبال بالانس کردن تمیزی کد و تغییر پذیری به بهترین حالت باشید.
+
+    5. در صورتی که بالانس کردن تغییر پذیری و کد تمیز امکان پذیر نبود ، در آخرین حالت میتوانید به استایل کدنویسی شخصی خود روی آورید.
+
+    6. تمامی کدها باید در کدادیتورهای مایکروسافت نوشته شوند.
+     
