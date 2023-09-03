@@ -9,7 +9,9 @@ Black onion project coding style guide :
         - You have the right to ignore the guide and use your personal style . You have to do the best for balancing the accessibility And clean code , 
         - If not possible , Choose the accessbility over clean code.
 
-    4. All code's Must be written In Microsoft Code editor's.
+    4. All code's Must be written In Microsoft Code editors.
+    
+    5. All the code's added to the main branch must be applied the psf/black linter and pylint linter style and pass the Pylint CI.
 
 
 قوانین کدنویسی پروژه بلک انین :
@@ -25,4 +27,6 @@ Black onion project coding style guide :
     5. در صورتی که بالانس کردن تغییر پذیری و کد تمیز امکان پذیر نبود ، در آخرین حالت میتوانید به استایل کدنویسی شخصی خود روی آورید.
 
     6. تمامی کدها باید در کدادیتورهای مایکروسافت نوشته شوند.
+
+    7. تمامی کدها باید قبل از اضاف شدن به شاخه ( برنچ ) اصلی تست های لینتر ( پای لینت ، بلک ) را پاس کنند .
      
