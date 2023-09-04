@@ -1,0 +1,46 @@
+Nyavo Studio Project Documentation Style Guide:
+
+    1. All Nyavo Studio project repositories must contain a 'docs' directory.
+
+    2. All Nyavo Studio project repositories should have a 'README.md' file 
+        - that follows the Markdown formatting and style guidelines.
+
+    3. All Nyavo Studio project repositories must contain a 'Privacy Policy' file.
+
+    4. All files referenced in this line : 'Security Policies', 'Code of Conduct', and 'Contributing Guidelines', 
+        - must be located within the 'docs' directory.
+
+    5. Only the 'License' file is permitted in the main directory of the repository.
+
+    6. All Nyavo Studio-owned repositories must be licensed under Creative Commons Zero v1.0 Universal.
+
+    7. No force-commits are allowed in Nyavo Studio repositories.
+
+    8. No commits should be signed off and applied to the main branch without being pulled and branched first.
+
+    9. All commits should have a branch of their own, discussed and then merged to the main branch.
+
+    10. Commit messages should not refer to the updates applied to the project as normal, 
+        - but rather to the main file title with the addition of the word 'Main.'
+
+    11. Commit descriptions must always be left blank.
+
+    12. All versions of the project repository must be controlled under semantic numbering.
+
+    13. The branch names should only refer to the project version. Example: V-1.0.9.
+
+    14. Pull request titles should begin with the name of the project, followed by a '|' character and their version. 
+        - Example: "NyavoHabit Project | V : 1.0.3".
+
+    15. All pull requests must have at least one comment before being merged.
+
+    16. All pull requests should contain an 'UPDATE LOG' comment that partitions new features
+        - and numbers them from the most important to the least important.
+
+    17. All code must be reformatted and accepted by the GitHub Actions linter before being merged
+        - (excluding txt or documentation files).
+
+    18. The update log comment of the pull request must always be the first comment.
+
+
+    
