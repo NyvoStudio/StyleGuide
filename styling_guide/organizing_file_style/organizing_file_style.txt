@@ -1,4 +1,4 @@
-Black onion project filing style guide :
+NyvoStudio filing style guide :
 
     1. All file name's should be in snake_case : ( All letter's are in lowercase , Instead of space _ Is used. ) . 
 
@@ -9,12 +9,3 @@ Black onion project filing style guide :
     4. Do not use Complex filename's , All name's should be kept simple.
 
 
-قوانین فایل بندی پروژه بلک آنین :
-
-    1. تمامی اسم فایل ها باید به حالت ـ ماری باشند ( هیچگونه حروف بزرگی استفاده نمیشود ، بین کلمات به جای فاصله از ـ استفاده میشود ).
-
-    2. اسم فایل ها باید با یک فعل آغاز شوند و در بخش دوم میتواند یک نام یا اطلاعات اضافی وجود داشته باشد.
-
-    3. اسم فایل ها باید کاملا روشن و قابل فهم باشند.
- 
-    4. در اسم فایل ها از کلمات پیچیده و غیرقابل فهم استفاده نکنید ، نام تمامی فایل ها باید تا حد امکان ساده باشند.

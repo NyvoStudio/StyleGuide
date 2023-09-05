@@ -1,4 +1,4 @@
-Black onion project algorithm writing style guide :
+NyvoStudio algorithm writing style guide :
 
     1. Loop starting , Finishing , Change In operation's will be written In sqaure.
 

@@ -1,20 +1,20 @@
-Nyvo Studio Project Documentation Style Guide:
+Nyavo Studio Project Documentation Style Guide:
 
     1. All Nyvo Studio project repositories must contain a 'docs' directory.
 
     2. All Nyvo Studio project repositories should have a 'README.md' file 
         - that follows the Markdown formatting and style guidelines.
 
-    3. All Nyvo Studio project repositories must contain a 'Privacy Policy' file.
+    3. All Nyvo Studio project repositori es must contain a 'Privacy Policy' file.
 
     4. All files referenced in this line : 'Security Policies', 'Code of Conduct', and 'Contributing Guidelines', 
         - must be located within the 'docs' directory.
 
     5. Only the 'License' file is permitted in the main directory of the repository.
 
-    6. All Nyvo Studio-owned repositories must be licensed under Creative Commons Zero v1.0 Universal.
+    6. All Nyavo Studio-owned repositories must be licensed under Creative Commons Zero v1.0 Universal.
 
-    7. No force-commits are allowed in Ny vo Studio repositories.
+    7. No force-commits are allowed in Nyavo Studio repositories.
 
     8. No commits should be signed off and applied to the main branch without being pulled and branched first.
 
