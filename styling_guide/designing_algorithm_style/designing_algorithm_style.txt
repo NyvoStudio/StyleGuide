@@ -6,7 +6,7 @@ NyvoStudio algorithm writing style guide :
 
     3. User Inputs are shown in Hexagon shape.
 
-    4. System Decisions And exceptions will be written In rhombuse.
+    4. System Decisions And exceptions will be written In rhombus.
 
     5. Functions Will be written in triangles.
 
@@ -26,6 +26,6 @@ NyvoStudio algorithm writing style guide :
 
     13. Comments will be sown In Comment_Alt shape.
 
-    14. Orderings Will be Written In brackets ( Number ) .
+    14. Numerical orderings will be written in brackets.
 
     15. All algorithms Must be written In visual paradigm online.
