@@ -1,4 +1,4 @@
-Nyavo Studio Project Documentation Style Guide:
+Nyvo Studio Project Documentation Style Guide:
 
     1. All Nyvo Studio project repositories must contain a 'docs' directory.
 
