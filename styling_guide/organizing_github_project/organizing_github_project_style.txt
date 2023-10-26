@@ -48,7 +48,7 @@ Nyvo Studio Project Documentation Style Guide:
 
     21. The change log comment of the pull request must always be the first comment.
 
-    22. If a update has been rejected or/and undoned, The branch related to the update must be deleted and the pull request
+    22. If a update has been rejected or/and left undone, The branch related to the update must be deleted and the pull request
          - must be closed and labled as ```Rejected``` 
          - ( The changelog comment must be as it is. )
 
