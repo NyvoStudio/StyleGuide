@@ -30,4 +30,6 @@ NyvoStudio algorithm writing style guide :
 
     15. Numerical orderings will be written in brackets.
 
+    16. Implent indications are designed in ( Implementation event ).
+
     16. All algorithms Must be written In visual paradigm online.
