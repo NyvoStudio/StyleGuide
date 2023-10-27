@@ -52,8 +52,5 @@ Nyvo Studio Project Documentation Style Guide:
          - must be closed and labled as ```Rejected``` 
          - ( The changelog comment must be as it is. )
 
-    23. If the changelog of an update contains more than 10 elements, the semantic numbering principle is applied as 
+    23. If the changelog of an update contains more than 10 elements, the version semantic numbering principle is considered-
          - a massive API change.
-
-
-    
