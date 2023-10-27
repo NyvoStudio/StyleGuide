@@ -2,15 +2,15 @@ NyvoStudio algorithm writing style guide :
 
     1. Important variables are shown with variable sign ( identifier-Value pair ) , do not use excessively : Variables are not a part of the algorithm
 
-    2. Loop starting , finishing , changes in operations will be written In sqaure.
+    2. Loop starting , finishing , changes in operations will be written In Sqaure.
 
-    3. Normal logical activites will be written In circle ( Not classes , unctions , ecorators )
+    3. Normal logical activites will be written In Circle ( Not classes , unctions , ecorators )
 
     4. User inputs are shown in Hexagon shape.
 
-    5. System decisions and exceptions will be written In rhombus.
+    5. System decisions and exceptions will be written In Rhombus.
 
-    6. Functions will be written in triangles.
+    6. Functions will be written in Triangles.
 
     7. Function calls be written In call activity shape ( Yellow Square ).
 
