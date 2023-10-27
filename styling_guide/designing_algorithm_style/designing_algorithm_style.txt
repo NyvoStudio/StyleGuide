@@ -12,7 +12,7 @@ NyvoStudio algorithm writing style guide :
 
     6. Functions will be written in triangles.
 
-    7. Function calls be written In Call Activity Shape ( Yellow Square ).
+    7. Function calls be written In call activity shape ( Yellow Square ).
 
     8. Connected attributes will be written In Page-refrences shape.
 
