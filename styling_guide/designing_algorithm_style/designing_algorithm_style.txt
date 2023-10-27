@@ -1,6 +1,6 @@
 NyvoStudio algorithm writing style guide :
 
-    0. Important variables are shown with variable sign ( Identifier-Value pair ) , Do not use excessively : Variables are not a part of the algorithm
+    1. Important variables are shown with variable sign ( Identifier-Value pair ) , Do not use excessively : Variables are not a part of the algorithm
 
     2. Loop starting , Finishing , Change In operations will be written In sqaure.
 
