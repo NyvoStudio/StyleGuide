@@ -18,7 +18,7 @@ NyvoStudio algorithm writing style guide :
 
     9. Databases and class connections will be written In Database Shape.
 
-    10. Connections will be refrenced With circlehead Lines.
+    10. Connections will be refrenced with bullethead Lines.
 
     11. Imports and accesses will be Refrenced With Arrowhead Lines.
 
