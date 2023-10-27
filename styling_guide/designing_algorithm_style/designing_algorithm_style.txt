@@ -24,7 +24,7 @@ NyvoStudio algorithm writing style guide :
 
     12. Partitions will be shown In vertical Lines.
 
-    13. Partition names will be shown in Horizontal Lane.
+    13. Partition names will be shown in Horizontal lane.
 
     14. Comments will be sown In Comment_Alt shape.
 
