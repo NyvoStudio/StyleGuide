@@ -20,7 +20,7 @@ NyvoStudio algorithm writing style guide :
 
     10. Connections will be refrenced with bullethead Lines.
 
-    11. Imports and accesses will be Refrenced With Arrowhead Lines.
+    11. Imports, accesses and inherits will be Refrenced With Arrowhead Lines.
 
     12. Partitions will be shown In vertical Lines.
 
