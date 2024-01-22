@@ -36,8 +36,8 @@ NyvoStudio algorithm writing style guide:
     17. All algorithm files ( Excluding the text-based ones ) must contain an Diagram Info object explaining the purpose of -
         the file.
 
-    18. All textual subjects must be written using the Dejavu Sans Mono Extrabold font.
+    18. The diagram info must contain an ( end ) object, describing the outcome or the exportation of the algorithm.
 
-    19. All algorithms must be visualized in Visual Paradigm.
-    
+    19. All textual subjects must be written using the Dejavu Sans Mono Extrabold font.
 
+    20. All algorithms must be visualized in Visual Paradigm.
