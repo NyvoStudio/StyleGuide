@@ -1,7 +1,7 @@
 NyvoStudio algorithm writing style guide:
 
     1. Important variables are shown with variable sign ( identifier-Value pair ) , do not use excessively: -
-        Variables are not a part of the algorithm
+        Variables are not a part of the algorithm.
         
     2. Loop starting , finishing , changes in operations will be written In sqaure.
 
@@ -36,6 +36,8 @@ NyvoStudio algorithm writing style guide:
     17. All algorithm files ( Excluding the text-based ones ) must contain an Diagram Info object explaining the purpose of -
         the file.
 
-    18. All algorithms must be visualized in Visual Paradigm.
+    18. All textual subjects must be written using the Dejavu Sans Mono Extrabold font.
+
+    19. All algorithms must be visualized in Visual Paradigm.
     
 
